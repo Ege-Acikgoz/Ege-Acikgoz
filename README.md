@@ -1,12 +1,9 @@
-- 👋 Hi, I’m @Ege-Acikgoz
-- 👀 I’m interested in
-- 🌱 I’m currently learning git and javascript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me = sefaege10@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi, I'm Ege 👋
 
-<!---
-Ege-Acikgoz/Ege-Acikgoz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Computer Engineering student at Üsküdar University, interested in mobile/web development and data.
+Working on sensor data filtering in C++ for an agricultural UGV with IEEE Üsküdar
+💼 Committee Chair of IEEE Üsküdar Computer Society
+
+**Tech:** C++ · JavaScript · TypeScript · React Native · Expo · React · Node.js · Supabase · ROS
+
+📫 sefaege10@gmail.com
